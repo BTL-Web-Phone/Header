@@ -114,6 +114,21 @@ html {
     padding: 6px;
 }
 
+.Login>a {
+    text-decoration: none;
+    line-height: 54px;
+    float: right;
+    color: #fff;
+    line-height: 54px;
+    padding: 0 35px;
+    text-transform: uppercase;
+}
+
+.Login>a:hover {
+    color: #000;
+    background-color: #ccc;
+}
+
 #slider {
     min-height: 500px;
     background-color: #ccc;
